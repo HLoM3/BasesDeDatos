@@ -15,4 +15,4 @@ Este repositorio contiene el archivo de exportación de una base de datos Postgr
 1. Clona este repositorio:
    ```sh
    git clone https://github.com/HLoM3/BasesDeDatos.git
-   cd tu_repositorio
+   cd BasesDeDatos
